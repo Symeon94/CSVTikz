@@ -7,7 +7,7 @@
     catn;n;n;n;n
     into a tikz graph
 
-    Author: Syméon Malengreau
+    Author: Symeon Malengreau
     Version: 0.1.1
 """
 
